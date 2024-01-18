@@ -1,0 +1,10 @@
+link for virtual env: https://medium.com/@dipan.saha/managing-git-repositories-with-vscode-setting-up-a-virtual-environment-62980b9e8106
+
+create virtual env
+python -m venv venv1
+
+select Interpreter:
+Press Shift + Control + P to open the Command Palette and click on the Python: Select Interpreter.
+
+remove virtual env:
+rm -r .venv/
